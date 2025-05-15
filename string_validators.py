@@ -1,3 +1,7 @@
+# Exercise: String Validators
+# URL: https://www.hackerrank.com/challenges/string-validators/problem?isFullScreen=true
+# Description: Find whether a string has any alphabetical characters, alphanumeric characters, digits, lower and upper characters
+
 if __name__ == '__main__':
     s = input()
 
