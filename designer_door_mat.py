@@ -1,3 +1,7 @@
+# Exercise: Designer Door Mat
+# URL: https://www.hackerrank.com/challenges/designer-door-mat/problem?isFullScreen=true
+# Description: Make a logo with given instructions 
+
 def print_mat(n, m):
     for i in range(1, n, 2):
         pattern = (".|." * i).center(m, "-")
