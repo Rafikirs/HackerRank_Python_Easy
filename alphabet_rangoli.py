@@ -1,3 +1,7 @@
+# Exercise: Alphabet Rangoli
+# URL: https://www.hackerrank.com/challenges/alphabet-rangoli/problem?isFullScreen=true
+# Description: Print an alphabet rangoli of size of a given integer N
+
 def print_rangoli(size):
     rows = []
     for i in range(size):
