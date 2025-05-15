@@ -1,3 +1,7 @@
+# Exercise: Python If-Else
+# URL: https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true
+# Description: Simple use of if/else statements
+
 if __name__ == '__main__':
     n = int(input().strip())
 
