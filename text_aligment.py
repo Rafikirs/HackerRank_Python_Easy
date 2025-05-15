@@ -1,3 +1,7 @@
+# Exercise: Text Alignment
+# URL: https://www.hackerrank.com/challenges/text-alignment/problem?isFullScreen=true
+# Description: Create a specific shape with letters "h" composed of an arrow up and an arrow down
+
 thickness = int(input())  
 c = 'H'
 
