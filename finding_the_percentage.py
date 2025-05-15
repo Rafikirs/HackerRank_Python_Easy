@@ -1,3 +1,7 @@
+# Exercise: Finding the percentage
+# URL: https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=true
+# Description: This script reads student names with their exam scores, stores them in a dictionary, and calculates the average score for a given student, displaying it with two decimal places
+
 if __name__ == '__main__':
     n = int(input())
     student_marks = {}
