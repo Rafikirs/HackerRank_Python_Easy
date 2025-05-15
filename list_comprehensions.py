@@ -1,3 +1,7 @@
+# Exercise: List Comprehensions
+# URL: https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true
+# Description: Making use of list comprehensions in a simple way
+
 if __name__ == '__main__':
     x = int(input())
     y = int(input())
