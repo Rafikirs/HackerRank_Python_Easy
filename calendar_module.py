@@ -1,4 +1,4 @@
-# Exercice: Calendar Module
+# Exercise: Calendar Module
 # URL: https://www.hackerrank.com/challenges/calendar-module/problem?isFullScreen=true
 # Description: Find the day of a certain date
 
