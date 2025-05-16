@@ -1,3 +1,7 @@
+# Exercise: Dot and Cross
+# URL: https://www.hackerrank.com/challenges/np-dot-and-cross/problem?isFullScreen=true
+# Description: Print the dot product of two arrays
+
 import numpy as np
 
 n = int(input())
