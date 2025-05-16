@@ -1,3 +1,7 @@
+# Exercise: Mean, Var, and Std
+# URL: https://www.hackerrank.com/challenges/np-mean-var-and-std/problem?isFullScreen=true
+# Description: Print the mean, variance and standard deviation of an array
+
 import numpy as np
 
 n, m = map(int, input().split())
