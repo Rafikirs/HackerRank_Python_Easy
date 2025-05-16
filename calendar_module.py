@@ -1,3 +1,7 @@
+# Exercice: Calendar Module
+# URL: https://www.hackerrank.com/challenges/calendar-module/problem?isFullScreen=true
+# Description: Find the day of a certain date
+
 import calendar
 
 def find_day(month, day, year):
