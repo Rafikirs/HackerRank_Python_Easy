@@ -1,3 +1,8 @@
+# Exercise: Set Mutations
+# URL: https://www.hackerrank.com/challenges/py-set-mutations/problem?isFullScreen=true
+# Description: This program demonstrates how to apply mutating set operations in Python—such as .update(), 
+# .intersection_update(), .difference_update(), and .symmetric_difference_update()—on a set A
+
 n = int(input())
 A = set(map(int, input().split()))
 num_operations = int(input())
