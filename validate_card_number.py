@@ -1,5 +1,5 @@
 # Exercise: Validating Credit Card Numbers
-# URL: https://www.hackerrank.com/challenges/find-a-string/problem?isFullScreen=true
+# URL: https://www.hackerrank.com/challenges/validating-credit-card-number/problem?isFullScreen=true
 # Description: Validating Credit Card Numbers based on certains constraints
 
 def is_valid_card_number(num):
